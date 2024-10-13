@@ -4,8 +4,7 @@
 
 
 **Question 1**
-
-> a\) Write a Java program that checks if a mark entered from the
+a) Write a Java program that checks if a mark entered from the
 > keyboard is within the valid range of 0 to 100 (inclusive).
 >
 > Use assertions to verify that the mark is within the specified range.
