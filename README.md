@@ -5,7 +5,7 @@
 
 **Question 1**
 
-> a\) Write a Java program that checks if a mark entered from the
+> **a\)** Write a Java program that checks if a mark entered from the
 > keyboard is within the valid range of 0 to 100 (inclusive).
 
 > Use assertions to verify that the mark is within the specified range.
@@ -14,7 +14,7 @@
 > is valid, display the message ***'Mark is Validated'***.
 
 
-> b\) Modify the above program to determine the Grade.
+> **b\)** Modify the above program to determine the Grade.
 > If the mark is valid, the program should then determine the
 > corresponding letter grade: 'A' for marks 75 and above, 'B' for marks
 > 60 to 74, 'C' for marks 50 to 59,'D' for marks 40 to 49, and 'F' for
